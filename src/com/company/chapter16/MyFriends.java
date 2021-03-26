@@ -1,5 +1,6 @@
 package com.company.chapter16;
 
+//기존 클래스 -> 상속 클래스로 변경 예제
 class Friends {
     protected String name;
     protected String phone;
