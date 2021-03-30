@@ -1,4 +1,4 @@
-package com.company.chapter20;
+package com.company.chapter20.problem3;
 
 import java.util.Arrays;
 //20-3 탐색의 기준 변경
